@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelenaZelweb
 - 👀 I’m interested in HTML/CSS and JavaScript
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 write to mail 
 
